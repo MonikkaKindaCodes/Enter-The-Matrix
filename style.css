@@ -1,6 +1,10 @@
 body {
     margin: 0;
     overflow: hidden;
-    font-family: 'Matrix Code NFI', arial;
+    font-family: 'Orbitron', sans-serif;
     color: #fff;
+}
+
+h1 {
+    position: relative;
 }
